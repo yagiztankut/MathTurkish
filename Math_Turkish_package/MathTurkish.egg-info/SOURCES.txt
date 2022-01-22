@@ -1,0 +1,7 @@
+README.md
+license.txt
+setup.py
+MathTurkish.egg-info/PKG-INFO
+MathTurkish.egg-info/SOURCES.txt
+MathTurkish.egg-info/dependency_links.txt
+MathTurkish.egg-info/top_level.txt
